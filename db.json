@@ -1,31 +1,22 @@
 {
-  "posts": [
+  "bares": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Jivago",
+      "horario":  "11PM - 5AM/Sex-Sab",
+      "endereco": "R. Dep. Leoberto Leal, 116",
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Desgosto Bar",
+      "horario":  "11PM - 5AM/Qui-Sab",
+      "endereco": "R. Padre Roma, 174",
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Gatus",
+      "horario":  "6PM - 12AM/Ter-Sab",
+      "endereco": "R. Tiradentes, 172",
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
