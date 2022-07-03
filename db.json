@@ -3,18 +3,15 @@
       "id": 1,
       "title": "Jivago",
       "horario":  "11PM - 5AM/Sex-Sab",
-      "endereco": "R. Dep. Leoberto Leal 116"
     },
     {
       "id": 2,
       "title": "Desgosto Bar",
-      "horario":  "11PM - 5AM/Qui-Sab",
-      "endereco": "R. Padre Roma 174"
+      "horario":  "11PM - 5AM/Qui-Sab"
     },
     {
       "id": 3,
       "title": "Gatus",
-      "horario":  "6PM - 12AM/Ter-Sab",
-      "endereco": "R. Padre Roma 174"
+      "horario":  "6PM - 12AM/Ter-Sab"
     }
 ]
