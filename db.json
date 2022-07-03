@@ -1,17 +1,19 @@
-[
-    {
-      "id": 1,
-      "title": "Jivago",
-      "horario":  "11PM - 5AM/Sex-Sab",
-    },
-    {
-      "id": 2,
-      "title": "Desgosto Bar",
-      "horario":  "11PM - 5AM/Qui-Sab"
-    },
-    {
-      "id": 3,
-      "title": "Gatus",
-      "horario":  "6PM - 12AM/Ter-Sab"
-    }
-]
+{
+    "bares: [
+        {
+          "id": 1,
+          "title": "Jivago",
+          "horario":  "11PM - 5AM/Sex-Sab",
+        },
+        {
+          "id": 2,
+          "title": "Desgosto Bar",
+          "horario":  "11PM - 5AM/Qui-Sab"
+        },
+        {
+          "id": 3,
+          "title": "Gatus",
+          "horario":  "6PM - 12AM/Ter-Sab"
+        }
+    ]
+}
